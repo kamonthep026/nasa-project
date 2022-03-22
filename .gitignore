@@ -3,6 +3,7 @@
 
 # production
 client/build
+server/public
 
 npm-debug.log*
 yarn-debug.log*
@@ -39,12 +40,12 @@ bower_components
 build/Release
 
 # Dependency directories
+node_modules/
+package-lock.json
 client/node_modules/
 client/package-lock.json
 server/node_modules/
 server/package-lock.json
-node_modules/
-package-lock.json
 /.pnp
 .pnp.js
 
