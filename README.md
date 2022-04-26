@@ -40,8 +40,6 @@ Only confirmed planets matching the following criteria are available for the ear
 
 ## All pages
 
----
-
 ### Launch Screen
 
 <span>Schedule a mission launch for interstellar travel to one of the Kepler Exoplanets.</span>
