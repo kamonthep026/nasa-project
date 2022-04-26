@@ -10,7 +10,6 @@
 
 ## What is NASA Project
 
----
 
 <span style="white-space: pre-line; font-size: 0.9rem;">Schedule a mission launch for interstellar travel to one of the Kepler Exoplanets.
 Only confirmed planets matching the following criteria are available for the earliest scheduled missions:<br/>
@@ -21,28 +20,21 @@ Only confirmed planets matching the following criteria are available for the ear
 
 ## Frontend framework
 
----
 
 - React.Js
 - Framework UI: [Arwes](https://arwes.dev)
 
 ## Backend framework
 
----
-
 - NodeJS
 - ExpressJS
 
 ## Testing framework
 
----
-
 - Jest
 - Supertest
 
 ## Data example
-
----
 
 - [kepler_data.csv](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
 
