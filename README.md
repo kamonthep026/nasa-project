@@ -22,7 +22,7 @@ Only confirmed planets matching the following criteria are available for the ear
 
 
 - React.Js
-- Framework UI: [Arwes](https://arwes.dev)
+- [Arwes](https://arwes.dev)
 
 ## Backend framework
 
